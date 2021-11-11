@@ -1,2 +1,2 @@
-# CPP-SPECIAL-S
+# CPP-SPECIAL
 In this repo I uploaded Some C++ programs that would be showing different concepts and ideas...
