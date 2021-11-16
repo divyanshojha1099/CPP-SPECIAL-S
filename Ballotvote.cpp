@@ -1,5 +1,5 @@
 using namespace std;
-#include bits/stdc++.h
+#include <bits/stdc++.h>
 class Ballot{
 	int v[50];
 	int cand;
