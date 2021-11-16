@@ -1,6 +1,5 @@
 using namespace std;
-#include <iostream>
-#include <conio.h>
+#include bits/stdc++.h
 class Ballot{
 	int v[50];
 	int cand;
