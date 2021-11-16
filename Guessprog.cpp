@@ -1,5 +1,5 @@
 using namespace std;
-#include bits/stdc++.h
+#include <bits/stdc++.h>
 int main(){
 	int num,gn;
 	srand(time(0));
@@ -13,10 +13,10 @@ int main(){
 			cout<<"Enter your guess.."<<endl;
 		    cin>>num;
 		    if (num>gn){
-		    	cout<<"Too low :try agian"<<endl;
+		    	cout<<"Too high :try agian"<<endl;
 			}
 			else if (num<gn){
-				cout<<"Too high : try again"<<endl;
+				cout<<"Too low : try again"<<endl;
 			}
 			if (num==gn){
 				cout<<"Excellent work! do you want to play again yes or no"<<endl;
