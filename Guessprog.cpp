@@ -1,7 +1,5 @@
 using namespace std;
-#include<iostream>
-#include<stdlib.h>
-#include<time.h>
+#include bits/stdc++.h
 int main(){
 	int num,gn;
 	srand(time(0));
