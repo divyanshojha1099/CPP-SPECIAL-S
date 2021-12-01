@@ -6,7 +6,7 @@ class Ballot{
 	int ball[5];
 	public:
 		void check(){
-			cout<<"PLease Enter the Number of Candidates.."<<endl;
+			cout<<"Enter number of all Candidates.."<<endl;
 			cin>>cand;
 			static int a,b,c,d,e,s;
 	        a=0;
